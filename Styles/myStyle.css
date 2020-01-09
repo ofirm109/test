@@ -1,0 +1,289 @@
+﻿body {
+}
+
+#container {
+    width: 80%;
+    margin: auto;
+}
+
+ul li {
+    display: inline-block;
+    font-size: 11pt;
+}
+
+h1 {
+    font-size: 11pt;
+    background-color: #3399ff;
+    color: white;
+}
+
+h2 {
+    font-size: 22pt;
+    margin-top: 15px;
+}
+
+h3 {
+    font-size: 22pt;
+    margin-top: 15px;
+}
+
+h5 {
+    font-size: 15pt;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+h6 {
+    font-size: 15pt;
+    margin-top: 15px;
+}
+
+h4 {
+    width: 725px;
+    padding-left: 15px;
+    font-size: 15pt;
+    background-color: #3399ff;
+    color: white;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+article aside {
+    width: 715px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    background-color: #f2f2f2;
+}
+
+.article-margin {
+    margin-left: 15px;
+}
+
+th {
+    width: 90px;
+}
+
+.p-margin {
+    margin-top: 15px;
+}
+
+@font-face {
+    font-family: Segoe UI;
+    src: url('../font/Segoe UI.ttf');
+}
+
+@font-face {
+    font-family: Segoe UI Bold;
+    src: url('../font/Segoe UI Bold.ttf');
+}
+
+p, h1, h2, h3, ol, ul, h4, h5, h6, th, td {
+    font-family: 'Segoe UI';
+}
+
+
+
+body {
+}
+
+#container {
+    width: 80%;
+    margin: auto;
+}
+
+ul li {
+    display: inline-block;
+    font-size: 11pt;
+}
+
+h1 {
+    font-size: 11pt;
+    background-color: #3399ff;
+    color: white;
+}
+
+h2 {
+    font-size: 22pt;
+    margin-top: 15px;
+}
+
+h3 {
+    font-size: 22pt;
+    margin-top: 15px;
+}
+
+h5 {
+    font-size: 15pt;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+h6 {
+    font-size: 15pt;
+    margin-top: 15px;
+}
+
+h4 {
+    width: 725px;
+    padding-left: 15px;
+    font-size: 15pt;
+    background-color: #3399ff;
+    color: white;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+article aside {
+    width: 715px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    background-color: #f2f2f2;
+}
+
+.article-margin {
+    margin-left: 15px;
+}
+
+th {
+    width: 90px;
+}
+
+.p-margin {
+    margin-top: 15px;
+}
+
+ol {
+    list-style-type: none;
+}
+
+span, .red {
+    color: red;
+}
+
+.red {
+    font-size: 8pt
+}
+
+form div p, form div input {
+    display: inline-block;
+}
+
+form div p {
+    width: 78px;
+}
+
+form div input {
+    width: 500px;
+    height: 20px;
+}
+
+form div {
+    margin-top: 25px
+}
+
+    form div:nth-child(3) textarea {
+        height: 150px;
+        margin-left: 82px;
+        width: 498px;
+    }
+
+    form div:nth-child(3) {
+        position: relative;
+    }
+
+        form div:nth-child(3) p {
+            position: absolute;
+        }
+
+#Button2 {
+    margin-left: 477px;
+    margin-top: 20px;
+}
+
+#Button2 {
+    padding: 0.5em 2.5em;
+    border-radius: 0.15em;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-weight: 400;
+    color: #FFFFFF;
+    background-color: #33cc33;
+    box-shadow: inset 0 -0.6em 0 -0.35em rgba(0,0,0,0.17);
+    text-align: center;
+    border: none;
+}
+
+    #Button2:active {
+        top: 0.1em;
+    }
+
+#Button1 {
+    padding: 1em 2.8em;
+    border-radius: 0.15em;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-size: 13pt;
+    font-weight: 400;
+    color: #FFFFFF;
+    background-color: #33cc33;
+    box-shadow: inset 0 -0.6em 0 -0.35em rgba(0,0,0,0.17);
+    text-align: center;
+    border: none;
+    margin-bottom: 15px;
+}
+
+    #Button1:active {
+        top: 0.1em;
+    }
+
+.reapid {
+    background-color: #e5e5e5;
+    width: 200px;
+    height: 550px;
+    position: fixed;
+    right: 10%;
+    top: 22px;
+    padding-left: 15px;
+}
+
+    .reapid p {
+        font-size: 9pt
+    }
+
+    .reapid h6 {
+        font-size: 11pt
+    }
+
+.star {
+    position: relative;
+}
+
+img.star {
+    position: absolute;
+    top: 62px;
+    right: 72px;
+}
+
+.com {
+    margin-top: 15px;
+    width: 90%;
+}
+
+.logo {
+    margin-top: 15px;
+}
+
+.head {
+    position: absolute;
+    width: 100%;
+    height: 22px;
+    background-color: #3399ff;
+    z-index: -1;
+    left: 0px;
+}
